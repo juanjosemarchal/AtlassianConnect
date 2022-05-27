@@ -4,7 +4,7 @@
 "key": "net.myclouddoor.atlassian.myapp",
 "baseUrl": "https://myclouddoor.atlassian.net/",
 "vendor": {
-"name": myCloudDoor Inc.",
+"name": "myCloudDoor Inc.",
 "url": "https://myclouddoor.atlassian.net/"
 },
 "authentication": {
