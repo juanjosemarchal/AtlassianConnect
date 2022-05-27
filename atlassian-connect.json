@@ -1,0 +1,26 @@
+{
+"name": "Hello World",
+"description": "Atlassian Connect app",
+"key": "net.myclouddoor.atlassian.myapp",
+"baseUrl": "https://myclouddoor.atlassian.net/",
+"vendor": {
+"name": myCloudDoor Inc.",
+"url": "https://myclouddoor.atlassian.net/"
+},
+"authentication": {
+"type": "none"
+},
+"apiVersion": 1,
+"modules": {
+"generalPages": [
+{
+"url": "https://mraddon.com",
+"key": "hello-world",
+"location": "system.top.navigation.bar",
+"name": {
+"value": "mrAddon"
+}
+}
+]
+}
+}
